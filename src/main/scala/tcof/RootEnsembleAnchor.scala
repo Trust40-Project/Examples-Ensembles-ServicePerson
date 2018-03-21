@@ -1,7 +1,5 @@
 package tcof
 
-import rescuecore2.log.Logger
-
 class RootEnsembleAnchor[EnsembleType <: RootEnsemble] private[tcof](val builder: () => EnsembleType) {
   def resolve() = {
     init()

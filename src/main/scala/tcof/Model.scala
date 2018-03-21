@@ -1,7 +1,5 @@
 package tcof
 
-import rescuecore2.messages.Command
-import rescuecore2.worldmodel.ChangeSet
 import tcof.traits.Trait
 
 abstract class Model extends Trait {
