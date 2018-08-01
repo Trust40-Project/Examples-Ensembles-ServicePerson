@@ -1,4 +1,4 @@
-# icsa2018-ensembles
+# Examples-Ensembles-ServicePerson
 Ensemble-based architectural framework for describing permitted sharing in collaboration groups
 
 
